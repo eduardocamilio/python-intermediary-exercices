@@ -1,0 +1,8 @@
+Error: deu ruim (LogFileMixin)
+Sucess: deu bom (LogFileMixin)
+Error: deu ruim (LogFileMixin)
+Sucess: deu bom (LogFileMixin)
+Error: deu ruim (LogFileMixin)
+Sucess: deu bom (LogFileMixin)
+Sucess: Galaxy S23 está ligado (Smartphone)
+Error: Iphone 14 está desligado (Smartphone)
